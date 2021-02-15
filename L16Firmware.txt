@@ -1,0 +1,7 @@
+Test FIRM WAR Initial release
+ V1.6.6
+  - Self testing version
+  - Support the Serial No. 
+  - command : ~TG~ : get the serial NO.
+  - ~TN030620001~ burn the Seiral NO.
+  - ~Tv~ : get the bootloader verison 
